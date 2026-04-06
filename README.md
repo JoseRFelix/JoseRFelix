@@ -25,6 +25,8 @@
 
 - 🔭 **[Osmosis Frontend](https://github.com/osmosis-labs/osmosis-frontend)** - Core contributor for [Osmosis Zone](https://osmosis.zone/), one of the largest DEXs in the Cosmos ecosystem
 - 🤖 **AI Document Intelligence** - Building RAG assistants and document extraction pipelines
+  - 📄 **[phase1-document-extractor](https://github.com/JoseRFelix/phase1-document-extractor)** - Document extraction pipeline
+  - 🔍 **[phase1-company-docs-rag-assistant](https://github.com/JoseRFelix/phase1-company-docs-rag-assistant)** - RAG-powered company docs assistant
 - 💰 **Fintech Tools** - Exploring payments and financial product integrations with Next.js
 
 ## AI Skills
