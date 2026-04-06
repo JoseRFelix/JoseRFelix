@@ -29,7 +29,7 @@
 
 ## React Native
 
-- 📱 **[Osmosis](https://github.com/osmosis-labs/osmosis-frontend)** - Shipped the React Native mobile app for Osmosis Zone
+- 📱 **[Osmosis](https://github.com/osmosis-labs/osmosis-frontend)** - Built the React Native mobile app for Osmosis Zone
 - 🧭 **Polaris** - Built cross-platform React Native experiences for the Polaris portal
 
 ## Blog Posts
