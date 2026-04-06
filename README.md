@@ -27,6 +27,10 @@
 - 🤖 **AI Document Intelligence** - Building RAG assistants and document extraction pipelines
 - 💰 **Fintech Tools** - Exploring payments and financial product integrations with Next.js
 
+## AI Skills
+
+- 🍋 **[nextjs-lemon-squeezy-example](https://github.com/JoseRFelix/nextjs-lemon-squeezy-example)** - Next.js + Lemon Squeezy integration for AI-powered payment flows
+
 ## React Native
 
 - 📱 **[Osmosis](https://github.com/osmosis-labs/osmosis-frontend)** - Built the React Native mobile app for Osmosis Zone
