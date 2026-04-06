@@ -31,7 +31,7 @@
 
 ## AI Skills
 
-- 🍋 **[nextjs-lemon-squeezy-example](https://github.com/JoseRFelix/nextjs-lemon-squeezy-example)** - Next.js + Lemon Squeezy integration for AI-powered payment flows
+- 🍋 **[nextjs-lemon-squeezy-skill](https://github.com/JoseRFelix/nextjs-lemon-squeezy-skill)** - Next.js + Lemon Squeezy integration for AI-powered payment flows
 
 ## React Native
 
