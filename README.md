@@ -10,9 +10,20 @@
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Building at the intersection of AI and finance, from DeFi frontends handling real volume to AI-powered document intelligence. I like shipping open-source tools that solve real problems.
+I build AI-native product experiences and fintech frontends with TypeScript, React, React Native, and modern LLM tooling.
 
-## Open Source
+I care about software that gets used across production DeFi interfaces, mobile-first agent workflows, document intelligence pipelines, and open-source UI tools with real adoption.
+
+## Featured Work
+
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| **[Osmosis Frontend](https://github.com/osmosis-labs/osmosis-frontend)** | Production DeFi frontend for [Osmosis Zone](https://osmosis.zone/), one of the largest DEXs in the Cosmos ecosystem | TypeScript, React, Next.js, Tailwind, tRPC |
+| **[Salchi](https://github.com/JoseRFelix/salchi)** | Mobile-optimized web GUI for monitoring and responding to coding-agent sessions from phone, tablet, or desktop | TypeScript, PWA, realtime UX, agent CLIs |
+| **[Company Docs RAG Assistant](https://github.com/JoseRFelix/phase1-company-docs-rag-assistant)** | RAG app that ingests company docs, stores embeddings, and retrieves relevant chunks for grounded answers | Next.js, Supabase, pgvector, Gemini |
+| **[Invoice Extractor](https://github.com/JoseRFelix/phase1-document-extractor)** | Focused document extraction workflow with schema validation and reviewable structured output | Next.js, Vercel AI SDK, Gemini, Zod |
+
+## Open Source Tools & Templates
 
 - ⭐ **[nextjs-starter-blog](https://github.com/JoseRFelix/nextjs-starter-blog)** - Next.js blog template with dark mode & MDX
 - 🌃 **[react-toggle-dark-mode](https://github.com/JoseRFelix/react-toggle-dark-mode)** - Sleek animated dark mode toggle for React
@@ -22,23 +33,22 @@
 - 🎨 **[antd-dark-mode](https://github.com/JoseRFelix/antd-dark-mode)** - Dynamic Ant Design dark/light theme switching
 - 🧪 **[testing-initializer](https://github.com/JoseRFelix/testing-initializer)** - Bootstrapping testing utilities that encourage efficient testing practices
 
-## Current Work
+## Current Focus
 
-- 🔭 **[Osmosis Frontend](https://github.com/osmosis-labs/osmosis-frontend)** - Core contributor for [Osmosis Zone](https://osmosis.zone/), one of the largest DEXs in the Cosmos ecosystem
-- 🐶 **[Salchi Editor](https://github.com/JoseRFelix/salchi)** - Building a PWA-optimized editor experience for AI agents with push notifications and automatic reconnection
-- 🤖 **AI Document Intelligence** - Building RAG assistants and document extraction pipelines
-  - 📄 **[phase1-document-extractor](https://github.com/JoseRFelix/phase1-document-extractor)** - Document extraction pipeline
-  - 🔍 **[phase1-company-docs-rag-assistant](https://github.com/JoseRFelix/phase1-company-docs-rag-assistant)** - RAG-powered company docs assistant
-- 💰 **Fintech Tools** - Exploring payments and financial product integrations with Next.js
+- AI orchestration interfaces that make coding agents usable away from the desk
+- Document intelligence workflows with extraction, validation, retrieval, and review loops
+- Fintech and DeFi product surfaces where reliability, trust, and speed matter
+- React Native and PWA experiences that keep advanced workflows usable on mobile
 
 ## AI Skills
 
 - 🍋 **[nextjs-lemon-squeezy-skill](https://github.com/JoseRFelix/nextjs-lemon-squeezy-skill)** - Next.js + Lemon Squeezy integration for AI-powered payment flows
 
-## React Native
+## React Native & Mobile
 
 - 📱 **[Osmosis](https://github.com/osmosis-labs/osmosis-frontend)** - Built the React Native mobile app for Osmosis Zone
 - 🧭 **Polaris** - Built cross-platform React Native experiences for the Polaris portal
+- 🐶 **[Salchi](https://github.com/JoseRFelix/salchi)** - Designing agent workflows around phone-first check-ins, reconnection, and push-notification ergonomics
 
 ## Blog Posts
 
@@ -52,6 +62,4 @@ I write about React, animations, CSS, and web development at **[josefelix.dev](h
 
 ## Connect
 
-[Website](https://josefelix.dev)
-[Email](mailto:jose@josefelix.dev)
-[GitHub](https://github.com/JoseRFelix)
+[Website](https://josefelix.dev) · [Email](mailto:jose@josefelix.dev) · [GitHub](https://github.com/JoseRFelix)
